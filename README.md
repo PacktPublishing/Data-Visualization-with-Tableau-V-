@@ -30,7 +30,3 @@ If you present data to others, aspire to be a business analyst or data scientist
 * [Tableau Tips, Tricks, and Techniques [Video]](https://prod.packtpub.com/in/big-data-and-business-intelligence/tableau-tips-tricks-and-techniques-video)
 
 * [Troubleshooting Tableau [Video]](https://prod.packtpub.com/in/big-data-and-business-intelligence/troubleshooting-tableau-video)
-### Download a free PDF
-
- <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
-<p align="center"> <a href="https://packt.link/free-ebook/9781788837330">https://packt.link/free-ebook/9781788837330 </a> </p>
